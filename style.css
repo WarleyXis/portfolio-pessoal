@@ -1,0 +1,33 @@
+body {
+    background-color: #0F172A;
+    color: #F2F0E9;
+}
+
+.titulo-site {
+    font-family: 'space grotesk', sans-serif;
+    font-size: 2.5rem;
+}
+
+.txt-principal {
+    color: #F8FAFC;
+    font-family: 'space grotesk', sans-serif;
+    font-size: 1.5rem;
+
+}
+
+.descricao { 
+    color: #94A3B8;
+    font-family: 'inter', sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+.sobrenome {
+    color: #38BDF8;
+}
+
+.menu {
+    font-family: 'inter', sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+}
